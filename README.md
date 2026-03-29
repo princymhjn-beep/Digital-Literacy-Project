@@ -8,7 +8,7 @@
 
 **Year of College:** 2025-2029 
 
-**Course Code:** CSA2002  
+**Course Code:** CSA2001
 
 **Date:** March 29, 2026 
 
